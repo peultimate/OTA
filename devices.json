@@ -1,16 +1,16 @@
-[
+]
    {
-      "name":"Xiaomi Redmi Note 7",
+      "name":"Redmi Note 7",
       "brand":"Xiaomi",
       "codename":"lavender",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"TheKotya / KotyaTheCat",
-            "maintainer_url":"https://t.me/The_Kotya",
-            "xda_thread":"https://google.com"
+            "maintainer_name":"TheKotya",
+            "maintainer_url":"instagram.com/_kotyathecat",
+            "xda_thread":"google.ru"
          }
       ]
-   }
- ]
+   },
+]
