@@ -1,8 +1,10 @@
 { 
+  "error":false,
   "forum_url": "https://google.ru",
   "build_date": "20190730",
   "changelog": "UPSTREAM CHANGES,ALOT DT CHANGES,NEW OTA APP.",
   "url": "https://drive.google.com/file/d/1GSAKyFBl1kC5KR8M8gNzSdcAlig2YYZr/view?usp=drivesdk",
+  "error": "false",
   "file_name": "PixelExperience_lavender-9.0-20190730-0619-OFFICIAL.zip",
   "file_size": 1207896941,  
   "md5": "b58ceb17f9c9db1d574ea10be9309cca"
