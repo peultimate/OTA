@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://vk.com/АрВоГл",
+  "build_date": "20190728",
+  "changelog": "Intial release",
+  "url": "https://drive.google.com/open?id=1GSAKyFBl1kC5KR8M8gNzSdcAlig2YYZr",
+  "error": "false",
+  "file_name": "PixelExperience_lavender-9.0-20190728-2113-UNOFFICIAL.zip",
+  "file_size": 1206049500,
+  "md5": "4859da138cf947713a842d9616491f09"
+  "donate_url": "https://youtube.com/c/АрВоГл",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
+      "summary": "Magisk",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "developer_url": "instagram.com/_kotyathekot_",
+  "website_url": "kotyathecat.github.io", 
+  "developer": "TheKotya / KotyaTheCat"
+},
