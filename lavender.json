@@ -8,18 +8,6 @@
   "file_size": 1207896941,  
   "md5": "b58ceb17f9c9db1d574ea10be9309cca"
   "donate_url": "https://google.ru",
-  "addons": [
-    {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
-      "summary": "Magisk",
-      "title": "Magisk"
-    },
-    {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
-      "summary": "Magisk Uninstaller",
-      "title": "Magisk"
-    }
-  ],
   "developer_url": "https://google.ru",
   "website_url": "https://google.ru", 
   "developer": "TheKotya"
