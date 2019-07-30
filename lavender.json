@@ -1,9 +1,26 @@
 {
-  "forum_url": "https://youtube.com/с/АрВоГл",
-  "build_date": "20190730",
-  "changelog": "Upstream changes",
-  "url": "https://drive.google.com/uc?id=1S-8Xga-B-MGaEw-sEziJtFpOBKD6AFp7&export=download",
-  "file_name": "PixelExperience_lavender-9.0-20190730-1148-OFFICIAL.zip",
-  "file_size": 1207813669,
-  "md5": "519053dd0e7d725a2e41e9e3bf0f50f7"
+  "forum_url": "https://google.ru",
+  "build_date": "20190317",
+  "changelog": "UPSTREAM CHANGES,ALOT DT CHANGES,NEW OTA APP.",
+  "url": "https://drive.google.com/open?id=1pauBg_z2g3QH-pz_7WNQa5uJgw0uDqnP",
+  "error": "false",
+  "filename": "PixelExperience_caf_jasmine-9.0-20190317-0807-UNOFFICIAL.zip",
+  "filesize": "1074575937",
+  "md5": "49f6d045f50989315d632d4a84bc4ba5",
+  "donate_url": "https://google.ru",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip", 
+      "summary": "Magisk",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "developer_url": "https://google.ru",
+  "website_url": "https://google.ru", 
+  "developer": "coderzstas-test"
 }
