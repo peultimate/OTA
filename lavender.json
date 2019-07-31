@@ -1,4 +1,5 @@
 {
+  "forum_url": "vk.com/arvogl",
   "build_date": "20190731",
   "changelog": "UPSTREAM CHANGES.",
   "url": "https://drive.google.com/open?id=1pauBg_z2g3QH-pz_7WNQa5uJgw0uDqnP",
@@ -6,6 +7,7 @@
   "file_name": "PixelExperience_lavender-9.0-20190731-1043-OFFICIAL.zip",
   "file_size": 1208803441,
   "md5": "760dbd4b7d7b66bc7e5d89b44d36620a",
+  "donate_url": "https://google.ru",
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
@@ -17,7 +19,13 @@
       "summary": "Magisk Uninstaller",
       "title": "Magisk"
     }
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Manager",
+      "title": "Magisk Manager"
+    }
   ],
+  "website_url": "kotyathecat.github.io", 
   "developer_url": "instagram.com/_kotyathecat_",
   "developer": "TheKotya / KotyaTheCat"
 }
