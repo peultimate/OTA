@@ -1,5 +1,5 @@
 {
-  "forum_url": "vk.com/arvogl",
+  "forum_url": "https://vk.com/arvogl",
   "build_date": "20190731",
   "changelog": "UPSTREAM CHANGES.",
   "url": "https://drive.google.com/open?id=1pauBg_z2g3QH-pz_7WNQa5uJgw0uDqnP",
@@ -25,7 +25,7 @@
       "title": "Magisk Manager"
     }
   ],
-  "website_url": "kotyathecat.github.io", 
-  "developer_url": "instagram.com/_kotyathecat_",
+  "website_url": "https://kotyathecat.github.io", 
+  "developer_url": "https://instagram.com/_kotyathecat_",
   "developer": "TheKotya/KotyaTheCat"
 }
