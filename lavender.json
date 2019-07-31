@@ -12,17 +12,17 @@
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
-      "summary": "Magisk",
+      "summary": "Installing Magisk via TWRP",
       "title": "Magisk"
     },
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip", 
-      "summary": "Magisk Uninstaller",
+      "summary": "Uninstall Magisk via TWRP",
       "title": "Magisk Uninstaller"
     },
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk", 
-      "summary": "Magisk Manager",
+      "summary": "Managing Magisk in the system",
       "title": "Magisk Manager"
     }
   ],  
