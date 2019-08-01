@@ -10,6 +10,11 @@
   "donate_url": "https://google.ru",
   "addons": [
     {
+      "url": "https://vanced.app/APKs?type=NONROOT", 
+      "summary": "YouTube without ads",
+      "title": "YouTube Vanced"
+    },
+    {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
       "summary": "Installing Magisk via TWRP",
       "title": "Magisk"
