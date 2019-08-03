@@ -4,14 +4,9 @@
   "changelog": "UPSTREAM CHANGES,ALOT DT CHANGES,NEW OTA APP.",
   "url": "https://my-files.ru/Save/y9g5d4/PixelExperience_lavender-9.0-20190731-1451-OFFICIAL.zip",
   "error": "false",
-  "filename": "PixelExperience_lavender-9.0-20190731-1451-OFFICIAL.zip",
-  "filesize": "1208849808",
-  "md5": "b0e488b5fe5920b558bf903becdfe588",
-  "id": "1311f0f4b02d4335915194b22efa5d6ba676c0eff4862d66e863fcc50cfd19fc",
-  "filehash": "b0e488b5fe5920b558bf903becdfe588",
-      "romtype": "OFFICIAL",
-  "version": "pie",
-  "datetime": "1564656033",
+   "file_name": "PixelExperience_lavender-9.0-20190803-1843-OFFICIAL.zip",
+   "file_size": 1207623067,
+   "md5": "44385483631372388efa18b52f8adb96",
   "addons": [
     {
       "url": "https://vanced.app/APKs?type=NONROOT", 
