@@ -1,13 +1,12 @@
 {
   "forum_url": "https://vk.com/arvogl",
-  "build_date": "20190803",
+  "build_date": "",
   "changelog": "UPSTREAM CHANGES,ALOT DT CHANGES,NEW OTA APP.",
   "url": "https://github.com/KotyaTheCat/OTA/releases/download/PixelExperience_lavender-9.0-20190831-0752-OFFICIAL.zip/PixelExperience_lavender-9.0-20190831-0752-OFFICIAL.zip",
   "error": "false",
   "file_name": "PixelExperience_lavender-9.0-20190831-0752-OFFICIAL.zip",
   "file_size": 1169996356,
   "md5": "60c6d755129c95dce5f0e0c0c9c4c789",
-  "build_date":"",
   "donate_url":"https:/youtube.com/c/АрВоГл/",
   "addons": [
     {
