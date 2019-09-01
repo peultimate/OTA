@@ -25,11 +25,11 @@
       "title": "Magisk Manager"
     }
   ],
-"changelog": "New OTA updater, update blobs from miui 10.3.6.0",
+"changelog": "Added Google Camera",
 "website_url": "https://kotyathecat.github.io",
-"filename":"PixelExperience_lavender-9.0-20190901-0610-OFFICIAL.zip",
+"filename":"PixelExperience_lavender-9.0-20190901-1105-OFFICIAL.zip",
 "build_date":"20190901-0610",
-"filesize":1169930882,
-"md5":"d63535bd0c555602b903d433f33fef33",
-"url":"https:\/\/github.com\/KotyaTheCat\/OTA\/releases\/download\/PixelExperience_lavender-9.0-20190901-0610-OFFICIAL.zip\/PixelExperience_lavender-9.0-20190901-0610-OFFICIAL.zip",
+"filesize":1300225414,
+"md5":"bc992535768b350aedf4b13111d3d8f6",
+"url":"https://github.com/KotyaTheCat/OTA/releases/download/PixelExperience_lavender-9.0-20190901-1105-OFFICIAL.zip/PixelExperience_lavender-9.0-20190901-1105-OFFICIAL.zip",
 "error":false}
