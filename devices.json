@@ -1,16 +1,22 @@
-]
-   {
-      "name":"Redmi Note 7",
-      "brand":"Xiaomi",
-      "codename":"lavender",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"TheKotya / KotyaTheCat",
-            "maintainer_url":"instagram.com/_kotyathecat",
-            "xda_thread":"google.ru"
+{
+   "name":"Redmi Note 7",
+   "brand":"Xiaomi",
+   "codename":"lavender",
+   "supported_versions":[
+      {
+         "version_code":"ten",
+         "version_name":"10 (Beta)",
+         "maintainer_name":"Kotya Agapkin (KotyaTheCat / TheKotya)",
+         "maintainer_url":"https://t.me/The_Kotya",
+         "xda_thread":""
+      }
+            {
+         "version_code":"pie",
+         "version_name":"Pie",
+         "maintainer_name":"Kotya Agapkin (KotyaTheCat / TheKotya)",
+         "maintainer_url":"https://forum.xda-developers.com/member.php?u=10039873",
+         "xda_thread":""
          }
       ]
-   }
-]
+    },
+    {
