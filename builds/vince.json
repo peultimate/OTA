@@ -1,0 +1,35 @@
+{"donate_url":"https:\/\/instagram.com\/KotyaTheCat_",
+"website_url":"https:\/\/kotyathecat.github.io",
+"news_url":"https:\/\/t.me\/The_Kotya",
+"developer":"Kotya Agapkin (TheKotya / KotyaTheCat)",
+"developer_url":"https://forum.xda-developers.com/member.php?u=10039873",
+"addons": [
+    {
+      "url": "https://vanced.app/APKs?type=NONROOT", 
+      "summary": "YouTube without ads",
+      "title": "YouTube Vanced"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
+      "summary": "Installing Magisk via TWRP",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip", 
+      "summary": "Uninstall Magisk via TWRP",
+      "title": "Magisk Uninstaller"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk", 
+      "summary": "Managing Magisk in the system",
+      "title": "Magisk Manager"
+    }
+  ],
+"changelog": "",
+"website_url": "https://kotyathecat.github.io",
+"filename":"PixelExperience_vincer-9.0-20190901-2322-OFFICIAL.zip",
+"build_date":"20190901-2322",
+"filesize":1141635166,
+"md5":"3944d80e17396c3f0gf16e95ccf6602d",
+"url":"https:\/\/github.com\/KotyaTheCat\/OTA\/releases\/download\/rom\/rom.zip",
+"error":false}
