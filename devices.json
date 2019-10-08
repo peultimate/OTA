@@ -1,14 +1,14 @@
 [
    {
-      "name": "Redmi Note 7",
-      "brand": "Xiaomi",
-      "codename": "lavender",
+      "name": "Max Pro M2",
+      "brand": "asus",
+      "codename": "X01BD",
       "supported_versions": [
          {
             "version_code": "ten",
             "version_name": "10 (Beta)",
-            "maintainer_name": "Kotya Agapkin (KotyaTheCat / TheKotya)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=10039873",
+            "maintainer_name": "Dhairy Tripathi (Hexdecimal16)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7602463",
             "xda_thread": ""
          }
       ]

@@ -1,0 +1,35 @@
+{"donate_url":"https:\/\/bit.ly\/paypal_dhairy",
+"website_url":"https:\/\/hexdecimal16.github.io",
+"news_url":"https:\/\/t.me\/peultimate",
+"developer":"Hexdecimal16 / Dhairy Tripathi",
+"developer_url":"https:\/\/github.com\/hexdecimal16",
+"addons": [
+    {
+      "url": "https://vanced.app/APKs?type=NONROOT", 
+      "summary": "YouTube without ads",
+      "title": "YouTube Vanced"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
+      "summary": "Installing Magisk via TWRP",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip", 
+      "summary": "Uninstall Magisk via TWRP",
+      "title": "Magisk Uninstaller"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk", 
+      "summary": "Managing Magisk in the system",
+      "title": "Magisk Manager"
+    }
+  ],
+"changelog": "Update",
+"website_url": "https:\/\/t.me\/peultimatechannel",
+"filename":"PixelExperience_X01BD-10.0-20191008-0746-ULTIMATE-BETA.zip",
+"build_date":"20190901-1822",
+"filesize":1168869266,
+"md5":"4e07ac25a45b24485080874386cec13b",
+"url":"https:\/\/github.com\/peultimate\/OTA\/releases\/download\/PixelExperience_X01BD-10.0-20191008-0746-ULTIMATE-BETA.zip\/PixelExperience_X01BD-10.0-20191008-0746-ULTIMATE-BETA.zip",
+"error":false}
